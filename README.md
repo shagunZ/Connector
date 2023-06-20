@@ -11,6 +11,10 @@
 # Preview
 
 
+
+https://github.com/shagunZ/Connector/assets/100477248/6a5abb4b-d176-4918-beef-9a63eb1ed82b
+
+
 # Starter's Guide
 ## frontend
 
